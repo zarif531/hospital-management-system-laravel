@@ -17,25 +17,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-
-# Ignore backend public folder
-public/backend/assets/css/
-public/backend/assets/css-rtl/
-public/backend/assets/img/
-public/backend/assets/js/
-public/backend/assets/plugins/
-public/backend/assets/scss/
-public/backend/assets/scss-rtl/
-public/backend/images/admins/
-public/backend/images/doctors/
-public/backend/images/labEmployees/
-public/backend/images/labs/
-public/backend/images/patients/
-public/backend/images/rayEmployees/
-public/backend/images/rays/
-# Ignore frontend public folder
-public/frontend/assets/css/
-public/frontend/assets/fonts/
-public/frontend/assets/images/
-public/frontend/assets/js/
-
