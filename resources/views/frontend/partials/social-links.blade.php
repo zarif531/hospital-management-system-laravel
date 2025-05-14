@@ -1,15 +1,10 @@
 <li>
-    <a href="https://www.facebook.com/ZiadGamal450">
-        <span class="fab fa-facebook-f"></span>
+    <a href="https://github.com/ZiadGamalDev">
+        <span class="fab fa-github"></span>
     </a>
 </li>
 <li>
-    <a href="https://twitter.com/ZiadGamal450">
-        <span class="fab fa-twitter"></span>
-    </a>
-</li>
-<li>
-    <a href="https://www.linkedin.com/in/ziadgamal450/">
+    <a href="https://www.linkedin.com/in/ziad-gamal/">
         <span class="fab fa-linkedin"></span>
     </a>
 </li>
