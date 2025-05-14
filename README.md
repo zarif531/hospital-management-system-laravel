@@ -110,6 +110,14 @@ This project is not currently open for contribution. It's meant to be a personal
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live version of the Hospital Management System:
+
+👉 [https://hms.dinamo-app.com](https://hms.dinamo-app.com)
+
+---
+
 ## 📣 About Me
 
 I'm **Ziad Gamal**, a passionate backend developer focused on Laravel and MERN stack. This project is the result of 3 months of non-stop learning and building — and I’m proud to share it as part of my portfolio.
