@@ -3,9 +3,7 @@
 namespace Database\Seeders\users;
 
 use App\Models\Users\Doctor;
-use Faker\Factory;
 use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\Hash;
 
 class DoctorSeeder extends Seeder
 {
@@ -31,7 +29,7 @@ class DoctorSeeder extends Seeder
                 'experience' => 'Dr. Gamal has performed over 500 successful joint replacement surgeries during his career.',
             ],
         ];
-        
+
         foreach ($doctors as $doctor) {
             Doctor::factory()->create($doctor);
         }

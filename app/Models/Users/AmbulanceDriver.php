@@ -2,6 +2,7 @@
 
 namespace App\Models\Users;
 
+use App\Models\Cruds\Ambulance;
 use App\Models\Cruds\Image;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
